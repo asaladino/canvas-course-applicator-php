@@ -1,0 +1,7 @@
+{
+    "csv": "./assets/courses-sample.csv",
+    "source_course_id": "323232",
+    "account_id": 1,
+    "server": "test.instructure.com",
+    "token": "1672~lajdfijFJOIDfa290841jkadfij"
+}
